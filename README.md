@@ -1,2 +1,2 @@
 # menu4k_Images
-lagging my build. put website pics here
+My build is experiencing lag due to large menu and video files. Upload them to this repository.
